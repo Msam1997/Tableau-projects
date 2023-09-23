@@ -1,2 +1,2 @@
 # Tableau-projects
-Projects made and created for the Data Science on Ramp course .
+Projects made and replicated for the Data Science on Ramp course.
